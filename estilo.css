@@ -1,0 +1,45 @@
+.header-img img{
+  width: 400px !important;
+}
+
+/* Hover btns */
+.btn-transacao {
+  transition-duration: 500ms;
+}
+
+.btn-transacao:hover {
+  background-color: #fd9e6f !important;
+  filter: brightness(95%);
+}
+
+.btn-site {
+  transition-duration: 500ms;
+}
+
+.btn-site:hover {
+  filter: brightness(75%);
+}
+
+.favoritos:hover .fav-label {
+  filter: brightness(90%);
+}
+/* Hover btns */
+
+/* Card house Label */
+.destaque-imovel-tipo {
+ font-size: 22px !important;
+}
+
+.destaque-6 .destaque-imovel {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1) !important;
+}
+/* Card house Label */
+
+/* price featured releases */
+.valor-transacao {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+/* price featured releases */
+
